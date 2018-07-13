@@ -54,4 +54,7 @@
                 </div>
             </div>
         </div>
+        <div>
+            <a class="btn btn-primary float-right" href="{{ route('chat') }}">Online chat</a>
+        </div>
 @endsection
